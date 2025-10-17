@@ -45,7 +45,7 @@ To get the project running locally:
 git clone https://github.com/andy2506/jstore.git
 cd jstore
 
-# 2. Create .env file and add these details
+# 2. Create .env file on the root of the project and add these details
 NEXT_PUBLIC_APP_NAME=JStore
 NEXT_PUBLIC_LOCALE=en-ZA
 NEXT_PUBLIC_CURRENCY=ZAR
